@@ -7,8 +7,8 @@ const fs = require('fs')
 var client = new Twitter({
     consumer_key: config.TWITTER_CONSUMER_KEY,
     consumer_secret: config.TWITTER_CONSUMER_SECRET,
-    access_token_key: config.LATINO_ACCESS_TOKEN,
-    access_token_secret: config.LATINO_ACCESS_TOKEN_SECRET
+    access_token_key: config.FSA_ACCESS_TOKEN,
+    access_token_secret: config.FSA_ACCESS_TOKEN_SECRET
     // access_token_key: config.TWITTER_ACCESS_TOKEN,
     // access_token_secret: config.TWITTER_ACCESS_TOKEN_SECRET
 })

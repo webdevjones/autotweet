@@ -6,7 +6,7 @@ services:
     ports:
       - 5001:5000
     volumes:
-      - ../twauth-web/:/usr/src/app/
+      - ./:/usr/src/app/
     command: pipenv run python3 ./twauth-web.py
     tty: true
     restart: always
