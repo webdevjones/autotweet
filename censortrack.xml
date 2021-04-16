@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="https://censortrack.org/">
+  <channel>
+    <title/>
+    <link>https://censortrack.org/</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>Daily Mail</title>
+  <link>https://censortrack.org/case/daily-mail</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Daily Mail&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 04/16/2021 - 10:58&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;"This content was removed for violating our privacy and personal information policy,"  a Facebook spokesperson told DailyMail.com. The Facebook spokesperson claimed that the article "shared multiple details which could identify the residence of one of the BLM founders, in violation of her privacy rights." &lt;br /&gt;
+&lt;br /&gt;
+Statement continued: "As per our Community Standards: We do not allow people to post personal or confidential information about yourself or of others," the spokesperson also said. "We remove content that shares, offers or solicits personally identifiable information or other private information that could lead to physical or financial harm, including financial, residential, and medical information, as well as private information obtained from illegal sources." Facebook concluded, "We also provide people ways to report imagery that they believe to be in violation of their privacy rights," which appears to suggest that the removal may have been requested by BLM founder Patrisse Cullors.&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-16T14:58:58Z" class="datetime"&gt;April 16, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/sharing-restriction" hreflang="en"&gt;Sharing Restriction&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/other" hreflang="en"&gt;Other&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/race" hreflang="en"&gt;Race&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;An NY Post article about the controversial property acquisitions by Black Lives Matter co-founder Patrisse Khan-Cullors&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;20645251&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/dailymailBLM.PNG" width="1595" height="1140" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sharing of Daily Mail article blocked from Facebook&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-organization field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Organization&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/daily-mail-online" hreflang="en"&gt;Daily Mail Online&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Violated Privacy and Personal Information Policy&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;@DailyMail&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Facebook&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Facebook blocks sharing of &lt;em&gt;Daily Mail&lt;/em&gt; article about BLM co-founder's controversial multi-million dollar real estate empire:&lt;/strong&gt; Facebook has &lt;a href="https://twitter.com/DailyMail/status/1383041496887218181"&gt;blocked&lt;/a&gt; the ability for user's on its platform to share an article written by British news outlet the &lt;a href="https://www.dailymail.co.uk/news/article-9477097/Facebook-blocks-users-sharing-DailyMail-com-story-BLM-founders-property-empire.html?ito=social-twitter_dailymailus"&gt;&lt;em&gt;Daily Mail&lt;/em&gt;&lt;/a&gt; that exposes Black Lives Matter co-founder Patrisse Kahn-Cullors' controversial multi-million dollar property empire. "This content was removed for violating our privacy and personal information policy,"  a Facebook spokesperson told the &lt;em&gt;Daily Mail&lt;/em&gt;. Facebook explained further that it blocked the &lt;em&gt;Daily Mail's&lt;/em&gt; article from appearing on its platform because it "shared multiple details which could identify the residence of one of the BLM founders, in violation of her privacy rights." The same &lt;a href="https://censortrack.org/case/new-york-post"&gt;sharing restriction&lt;/a&gt; was also levied against the &lt;em&gt;New York Post's&lt;/em&gt; &lt;a href="https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/"&gt;article&lt;/a&gt; on the same story a day prior. Additionally, a litany of Twitter users have &lt;a href="https://www.newsbusters.org/blogs/free-speech/alexander-hall/2021/04/14/steadfast-whitlock-wont-post-bail-after-twitter"&gt;had their accounts locked for tweeting about the story&lt;/a&gt;. Amid the controversy, BLM put out a &lt;a href="https://twitter.com/Blklivesmatter/status/1382033380888481794"&gt;statement&lt;/a&gt; this week defending Cullors. In it, the political organization remarked that the reporting on Cullors' real estate properties "continues a tradition of terror by white supremacists against Black activists."&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 16 Apr 2021 14:58:57 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2213 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>James O'Keefe</title>
+  <link>https://censortrack.org/case/james-okeefe-4</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;James O'Keefe&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/6" lang="" about="https://censortrack.org/user/6" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Heather Moon&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 04/15/2021 - 17:52&lt;/span&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-15T21:52:10Z" class="datetime"&gt;April 15, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/permanent-ban" hreflang="en"&gt;Permanent Ban&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/other" hreflang="en"&gt;Other&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Entire feed&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;924200&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/james-okeefe" hreflang="en"&gt;James O'Keefe&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Violated Rules Against Platform Manipulation and Spam&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;@jamesokeefeiii&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Twitter&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;h3&gt;&lt;a href="https://www.newsbusters.org/blogs/free-speech/alec-schemmel/2021/04/15/silenced-twitter-suspends-project-veritas-founder-james"&gt;SILENCED! Twitter Suspends Project Veritas Founder James O’Keefe Permanently&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href="https://www.newsbusters.org/author/alec-schemmel"&gt;Alec Schemmel&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;April 15th, 2021 5:31 PM&lt;/p&gt;
+
+&lt;p&gt;Roughly two months after banning Project Veritas, Twitter has permanently suspended the investigative outlet’s founder James O’Keefe.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.projectveritas.com/bio/"&gt;O’Keefe’s&lt;/a&gt; ban comes after Project Veritas released undercover video of a top CNN executive bragging about helping Joe Biden win the presidency. “Look what we did, we got Trump out. I am 100 percent going to say it, and I 100 percent believe that if it wasn’t for CNN, I don’t know that Trump would have got voted out,” Project Veritas &lt;a href="https://www.youtube.com/watch?v=Dv8Zy-JwXr4"&gt;caught&lt;/a&gt; CNN Technical Director Charlie Chester saying.&lt;/p&gt;
+
+&lt;p&gt;Chester even &lt;a href="https://www.newsbusters.org/blogs/nb/kristine-marsh/2021/04/13/caught-cnn-staffer-admits-network-reported-propaganda-get-trump"&gt;admitted&lt;/a&gt; that CNN’s anti-Trump coverage amounted to nothing less than propaganda.&lt;/p&gt;
+
+&lt;p&gt;In a scene from the undercover video, Chester is heard talking about how CNN “didn’t know anything” about Trump’s health but frequently reported the former president was “neurologically damaged” anyway:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Yeah, I mean like Trump we did it, like when Trump was-- I don’t know-- like his hand was shaking? Or whatever I think. We brought in so many medical people to all tell a story that like, &lt;strong&gt;it was all speculation, that he was, like, neurologically damaged&lt;/strong&gt;, that he was losing it. He was unfit to, you know, whatever. &lt;strong&gt;We were--we were creating a story there that we didn’t know anything about. That’s what--I think that’s propaganda, you know?&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In a statement to the Media Research Center, an unnamed Twitter spokesperson said that O’Keefe had been “permanently suspended for violating the Twitter Rules on platform manipulation and spam.” The statement continued: “As outlined in our policy on platform manipulation and spam, ‘You can’t mislead others on Twitter by operating fake accounts,’ and ‘you can’t artificially amplify or disrupt conversations through the use of multiple accounts.’”&lt;/p&gt;
+
+&lt;p&gt;O’Keefe &lt;a href="https://www.forbes.com/sites/joewalsh/2021/04/15/twitter-bans-veritas-founder-james-okeefe---he-threatens-lawsuit-in-response/?sh=2a8940c74aff"&gt;reportedly&lt;/a&gt; told &lt;em&gt;Forbes &lt;/em&gt;he plans to sue Twitter for defamation next week, arguing he never operated any fake accounts. “This is false, this is defamatory, and they will pay,” O’Keefe said in a &lt;a href="https://t.me/JamesOKeefeIII/789"&gt;statement&lt;/a&gt; posted to his Telegram account. “Section 230 may have protected them before, but it will not protect them from me. The complaint will be filed Monday.”&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 15 Apr 2021 21:52:09 +0000</pubDate>
+    <dc:creator>Heather Moon</dc:creator>
+    <guid isPermaLink="false">2211 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>New York Post</title>
+  <link>https://censortrack.org/case/new-york-post-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New York Post&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 04/16/2021 - 11:43&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;"The articles shared multiple details which could identify the residence of one of the BLM founders, in violation of her privacy rights. As per our Community Standards:&lt;br /&gt;
+-We do not allow people to post personal or confidential  information about yourself or others.&lt;br /&gt;
+-We remove content that shares, offers or solicits personally identifiable information or other private information that could lead to physical or financial harm, including financial, residential and medical information, as well as private information obtained from illegal sources.&lt;br /&gt;
+-We also provide people ways to report imagery that they believe to be in violation of their privacy rights.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     &lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-15T15:43:12Z" class="datetime"&gt;April 15, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/sharing-restriction" hreflang="en"&gt;Sharing Restriction&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/other" hreflang="en"&gt;Other&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/race" hreflang="en"&gt;Race&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;An NY Post article about the controversial property acquisitions by Black Lives Matter co-founder Patrisse Khan-Cullors&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;564107&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/NYPost_Instagram.PNG" width="2966" height="1072" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/NYPost_Instagram2.PNG" width="1175" height="1509" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Article's link cannot be posted, or shared via direct messages&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-organization field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Organization&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/ny-post" hreflang="en"&gt;NY Post&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/new-york-post" hreflang="en"&gt;The New York Post&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/ny-post" hreflang="en"&gt;NY Post&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Violated Facebook's Privacy and Personal Information Policy&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;nypost&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Instagram&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Instagram blocks sharing of &lt;em&gt;NY Post&lt;/em&gt; article about BLM co-founder's controversial property acquisitions: &lt;/strong&gt;Instagram was acquired by Facebook in 2012, therefore, restrictions and bans of users, or content, usually carry across platforms. Since Facebook &lt;a href="https://censortrack.org/case/new-york-post"&gt;blocked&lt;/a&gt; its &lt;a&gt;user's &lt;/a&gt;ability to share a &lt;em&gt;New York Post&lt;/em&gt; &lt;a href="https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/"&gt;article&lt;/a&gt; exposing Black Lives Matter co-founder Patrisse Khan-Cullors' controversial multi-million dollar real estate empire, &lt;a href="https://twitter.com/abigailmarone/status/1382784962009702404"&gt;so did Instagram&lt;/a&gt;. Facebook said the article was a violation of its policy on privacy and personal information. Furthermore, a &lt;em&gt;New York Times&lt;/em&gt; media reporter &lt;a href="https://twitter.com/benyt/status/1382870464066945028"&gt;detailed on Twitter&lt;/a&gt; that Facebook's reasoning for censoring the article was because it "shared multiple details which could identify the residence of one of the BLM founders, in violation of her privacy rights." Both Facebook and Instagram have also reportedly blocked users' ability to &lt;a href="https://twitter.com/abigailmarone/status/1382784962009702404"&gt;share the article via private messaging&lt;/a&gt;. Amid the controversy, BLM put out a &lt;a href="https://twitter.com/Blklivesmatter/status/1382033380888481794"&gt;statement&lt;/a&gt; this week defending Cullors. In it, the political organization remarked that the reporting on Cullors' real estate properties "continues a tradition of terror by white supremacists against Black activists."   &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 16 Apr 2021 15:43:12 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2217 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>New York Post</title>
+  <link>https://censortrack.org/case/new-york-post</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;New York Post&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 04/16/2021 - 08:56&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;"The articles shared multiple details which could identify the residence of one of the BLM founders, in violation of her privacy rights. As per our Community Standards:&lt;br /&gt;
+-We do not allow people to post personal or confidential  information about yourself or others.&lt;br /&gt;
+-We remove content that shares, offers or solicits personally identifiable information or other private information that could lead to physical or financial harm, including financial, residential and medical information, as well as private information obtained from illegal sources.&lt;br /&gt;
+-We also provide people ways to report imagery that they believe to be in violation of their privacy rights.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        &lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-15T12:56:32Z" class="datetime"&gt;April 15, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/sharing-restriction" hreflang="en"&gt;Sharing Restriction&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/other" hreflang="en"&gt;Other&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/race" hreflang="en"&gt;Race&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;An NY Post article about the controversial property acquisitions by Black Lives Matter co-founder Patrisse Khan-Cullors&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;4868537&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/NYPostBLM4.PNG" width="1568" height="1289" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/NyPostBLM3.PNG" width="1568" height="1289" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/NYPostBLM2.PNG" width="1568" height="1289" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/nypostBLM.PNG" width="1568" height="1289" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Article's link cannot be posted, or shared via direct messages&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-organization field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Organization&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/ny-post" hreflang="en"&gt;NY Post&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/new-york-post" hreflang="en"&gt;The New York Post&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/ny-post" hreflang="en"&gt;NY Post&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Violated Facebook's Privacy and Personal Information Policy&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;@NYPost &lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Facebook&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Facebook blocks sharing of &lt;em&gt;NY Post&lt;/em&gt; article about BLM co-founder's controversial property acquisitions: &lt;/strong&gt;Citing its policy around privacy and personal information, Facebook has &lt;a href="https://twitter.com/USSANews/status/1382800687185088513/photo/1"&gt;blocked&lt;/a&gt; &lt;a href="https://twitter.com/mmcdonaldlewis/status/1382765031977218048/photo/1"&gt;its&lt;/a&gt; &lt;a&gt;user's &lt;/a&gt;&lt;a href="https://twitter.com/mmcdonaldlewis/status/1382765031977218048/photo/1"&gt;ability&lt;/a&gt; to &lt;a href="https://twitter.com/PeteKaliner/status/1382818581390430209/photo/1"&gt;share&lt;/a&gt; a &lt;em&gt;New York Post&lt;/em&gt; &lt;a href="https://nypost.com/2021/04/10/inside-blm-co-founder-patrisse-khan-cullors-real-estate-buying-binge/"&gt;article&lt;/a&gt; exposing Black Lives Matter co-founder Patrisse Khan-Cullors' controversial multi-million dollar real estate empire. A &lt;em&gt;New York Times&lt;/em&gt; media reporter &lt;a href="https://twitter.com/benyt/status/1382870464066945028"&gt;indicated on Twitter&lt;/a&gt; that Facebook's reasoning for censoring the article from its platform was because it "shared multiple details which could identify the residence of one of the BLM founders, in violation of her privacy rights." Facebook has also &lt;a href="https://twitter.com/AbigailShrier/status/1382774842986954753"&gt;reportedly&lt;/a&gt; blocked users' ability to &lt;a href="https://twitter.com/PrisonPlanet/status/1382800600895791108"&gt;share the article via private messaging&lt;/a&gt;. Twitter took similar action last week when it locked the account of sports journalist Jason Whitlock after he criticized the BLM co-founder as well. Amid the controversy, BLM put out a &lt;a href="https://twitter.com/Blklivesmatter/status/1382033380888481794"&gt;statement&lt;/a&gt; this week defending Cullors. In it, the political organization remarked that the reporting on Cullors' real estate properties "continues a tradition of terror by white supremacists against Black activists."   &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 16 Apr 2021 12:56:32 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2212 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>Rebel News</title>
+  <link>https://censortrack.org/case/rebel-news-0</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Rebel News&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 04/14/2021 - 12:42&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;Gave Rebel News' channel a "strike" which suspends them from uploading new content, or live streaming, for a week.&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-14T16:42:41Z" class="datetime"&gt;April 14, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/suspension" hreflang="en"&gt;Suspension&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/social-media" hreflang="en"&gt;Social Media&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;A video from January titled "If Big Tech can silence Trump, they can silence anyone" about the Jan. 6 Capitol events, the narrative surrounding the incident and the tech companies move to censor former-President Trump over it because he supposedly condoned rather than condemned the protesters actions. &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;1450000&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/RebelNews.PNG" width="1505" height="1342" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/RebelNews2.PNG" width="1479" height="1491" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-organization field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Organization&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/rebel-news" hreflang="en"&gt;Rebel News&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/ezra-levant" hreflang="en"&gt;Ezra Levant&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Undisclosed&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;On&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;Rebel News&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;YouTube&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;YouTube suspends Canadian digital outlet &lt;em&gt;Rebel News&lt;/em&gt; for a week due to 3 month old video criticizing Big Tech's silencing of Trump: &lt;/strong&gt;&lt;em&gt;Rebel News's&lt;/em&gt; Ezra Levant took to &lt;a href="https://twitter.com/ezralevant/status/1382363134002917382"&gt;Twitter&lt;/a&gt; to tell everyone that YouTube did exactly what his outlet had been expecting it to do: suspend their channel. "A few weeks ago, YouTube fired its first shot at &lt;em&gt;Rebel News&lt;/em&gt;," read a &lt;a href="https://www.rebelnews.com/irony_this_is_the_video_that_got_rebel_news_suspended_on_youtube"&gt;blog&lt;/a&gt; from &lt;em&gt;Rebel News&lt;/em&gt; referring to YouTube's &lt;a href="https://censortrack.org/case/rebel-news"&gt;demonetization&lt;/a&gt; of its channel, and "just as Ezra predicted, YouTube is continuing to come after us. This time, they've suspended the &lt;em&gt;Rebel News&lt;/em&gt; YouTube page and given us a 'strike.'" This means the outlet cannot upload new content, or live stream for an entire week, said the &lt;em&gt;Rebel News&lt;/em&gt; blog post about their suspension. In a &lt;a href="https://twitter.com/ezralevant/status/1382363134002917382"&gt;tweet&lt;/a&gt;, Levant claimed the &lt;em&gt;Rebel News&lt;/em&gt; channel, which has over 1.45 million subscribers, had never before received a strike from YouTube. He said in another &lt;a href="https://twitter.com/ezralevant/status/1382386179283238912"&gt;tweet&lt;/a&gt; that the three month old video about Big Tech's silencing of Donald Trump "breaks none of [YouTube's] rules," and that YouTube is "under pressure from &lt;a href="https://twitter.com/JustinTrudeau"&gt;@JustinTrudeau&lt;/a&gt; &amp; &lt;a dir="ltr" href="https://twitter.com/s_guilbeault"&gt;@s_guilbeault&lt;/a&gt; to shut [them] down before the Canadian election."&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Wed, 14 Apr 2021 16:42:41 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2202 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>An0maly</title>
+  <link>https://censortrack.org/case/an0maly</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;An0maly&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Tue, 04/13/2021 - 17:01&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;N/A&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-13T21:01:29Z" class="datetime"&gt;April 13, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/deleted-content" hreflang="en"&gt;Deleted Content&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/demonetization" hreflang="en"&gt;Demonetization&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/restricted" hreflang="en"&gt;Restricted&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/anti-vaxx" hreflang="en"&gt;Anti-Vaxx&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/coronavirus" hreflang="en"&gt;Coronavirus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;A video where he slams Facebook for not fact-checking Biden Press Sec. Jen Psaki who lied/was incorrect in a video when she stated all COVID vaccines had been FDA approved.  &lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;1500139&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/An0maly3.PNG" width="1501" height="1357" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/An0maly2.PNG" width="1501" height="1357" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/An0maly.PNG" width="1501" height="1357" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;None&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/an0maly" hreflang="en"&gt;An0maly&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unknown (Likely violated COVID Misinformation policy)&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;@An0malyMusic&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Facebook&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Facebook deletes video questioning why no fact-check had been applied to a false post from Biden Press Sec. Jen Psaki, platform 'restricted &amp; demonetized' news analysis page the critical video came from:&lt;/strong&gt; Facebook deleted a post and then "&lt;a href="https://twitter.com/LegendaryEnergy/status/1382067489480220673"&gt;restricted &amp; demonetized&lt;/a&gt;" the news analysis Page it came from, which is hosted by a journalist who goes by the name An0maly. The &lt;a href="https://twitter.com/LegendaryEnergy/status/1382265912414244867"&gt;post&lt;/a&gt; proved how Facebook fact-checker's turn a blind eye to false claims from their preferred politicians, while unabashedly censoring the truth from those they don't like. An0maly pointed to a video posted on the White House's official Twitter page and website in which Biden Press Sec. Jen Psaki falsely claimed all three COVID vaccines had been FDA approved.  "Facebook 'restricted' my page yesterday for accurately Fact-Checking Jen Psaki on her public lie about FDA Approval," An0maly wrote in a Facebook &lt;a href="https://www.facebook.com/An0malyMusic/posts/4229459880397929"&gt;post&lt;/a&gt;. "Today this comes out," referring to an article he linked in the post about the pause in the use of the Johnson &amp; Johnson coronavirus vaccine. "Why are they allowed to delete the clear truth &amp; cover up for liars?" An0maly said in a &lt;a href="https://twitter.com/LegendaryEnergy/status/1382067489480220673"&gt;tweet&lt;/a&gt; that his "main source of income" and his "biggest audience" had been restricted and demonetized "for telling the TRUTH about Jen Psaki’s LIE."   &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Tue, 13 Apr 2021 21:01:29 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2198 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>Maria Keffler</title>
+  <link>https://censortrack.org/case/maria-keffler</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Maria Keffler&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Thu, 04/15/2021 - 08:11&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;Partners for Ethical Care: "No warning, no email, just censorship."&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-13T12:11:01Z" class="datetime"&gt;April 13, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/blocked" hreflang="en"&gt;Blocked&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/gender" hreflang="en"&gt;Gender&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Maria Keffler’s “Desist, Detrans, &amp; Detox: Getting Your Child Out of the Gender Cult.” The newly released book had sold less than 100 copies across three platforms and had garnered less than a dozen Amazon reviews before it was pulled, according to Partners for Ethical Care (PEC).&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/PartnersforEthicalCare.PNG" width="1552" height="1113" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Book currently "blocked"&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-organization field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Organization&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/partners-ethical-care-pec" hreflang="en"&gt;Partners for Ethical Care (PEC)&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/maria-keffler" hreflang="en"&gt;Maria Keffler&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;None&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Amazon&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Amazon says blocking of Keffler’s book about the excesses of contemporary transgender ideology was done in 'error':&lt;/strong&gt; Sales of Maria Keffler’s book, “Desist, Detrans, &amp; Detox: Getting Your Child Out of the Gender Cult” were &lt;a href="https://twitter.com/ErinBrewerin/status/1382129575728009218"&gt;blocked&lt;/a&gt; from Amazon's massive marketplace only six days after it was published on April 7. The following day Keffler told the &lt;em&gt;&lt;a href="https://www.christianpost.com/news/amazon-reverses-ban-on-book-helping-parents-rescue-trans-kids.html"&gt;Christian Post&lt;/a&gt; &lt;/em&gt;that Amazon sent her an email indicating sales of her book had been blocked in "error." Subsequently, the Kindle version went &lt;a href="https://www.amazon.com/gp/product/B0923B6LNG/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0"&gt;live&lt;/a&gt; again and the paperback is expected to return as well, according to the &lt;em&gt;Christian Post&lt;/em&gt;.   &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 15 Apr 2021 12:11:00 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2206 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>Doctors for Covid Ethics</title>
+  <link>https://censortrack.org/case/doctors-covid-ethics</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Doctors for Covid Ethics&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Mon, 04/12/2021 - 16:33&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;"... we require the removal of content that may pose a risk to people's health, including content that goes directly against guidance from authoritative sources of global and local public health information."&lt;br /&gt;
+&lt;br /&gt;
+"Please note that repeated violations may lead to a permanent suspension of your account. Proceed to Twitter now to fix the issue with your account." &lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-12T20:33:38Z" class="datetime"&gt;April 12, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/deleted-content" hreflang="en"&gt;Deleted Content&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/locked-account" hreflang="en"&gt;Locked Account&lt;/a&gt;&lt;/div&gt;
+          &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/suspension" hreflang="en"&gt;Suspension&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/coronavirus" hreflang="en"&gt;Coronavirus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;A tweet about COVID, not sure the specifics of it though.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;1571&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/COVIDEthics.PNG" width="623" height="866" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Account forced to delete tweet to regain full functionality.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-organization field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Organization&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/organization/doctors-covid-ethics" hreflang="en"&gt;Doctors for Covid Ethics&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Violating policy on spreading misleading and potentially harmful information related to COVID-19&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Resolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;@Drs4CovidEthics&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Twitter&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Twitter locks account of &lt;em&gt;Doctors for Covid Ethics&lt;/em&gt;, forces group to delete tweet before restoring its ability to use account again:&lt;/strong&gt; Doctors for Covid Ethics is made up of doctors and scientists from around the world who have insisted that not all of the evidence of COVID-19 vaccine dangers has been "appropriately" ruled out. "Not a month on Twitter &amp; we were locked out of our account, forced to delete our pinned tweet. We must self-censor or be banned says Twitter (paraphrasing)," the group &lt;a href="https://twitter.com/Drs4CovidEthics/status/1380796078237302791/photo/1"&gt;tweeted&lt;/a&gt;. "We mustn't contradict official sources. But our letters contradict official sources. With good reason. Which we can't tweet." The "letters" refer to two open letters the group wrote to the European Medicines Agency regarding COVID-19 vaccine dangers. In the letters, Doctors for Covid Ethics insist that the risks of clotting, bleeding and platelet abnormalities after receiving the vaccine were not adequately ruled out in legitimate empirical trials prior to human use. After Doctors for Covid Ethics deleted its offending tweet, Twitter returned the group's account to full functionality. Typically, locked accounts cannot tweet, "like" other's tweets or gain new followers, only direct messaging is allowed by accounts that Twitter has locked.        &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Mon, 12 Apr 2021 20:33:38 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2193 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>Chris Saccoccia aka "Chris Sky"</title>
+  <link>https://censortrack.org/case/chris-saccoccia-aka-chris-sky</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Chris Saccoccia aka "Chris Sky"&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Fri, 04/16/2021 - 15:17&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;“We removed Chris [Sky] from Instagram for multiple violations of our Community Standards. We will not tolerate content on our platform about COVID-19 that could lead to harm, including harmful vaccine misinformation and content promoting widely debunked hoaxes.”&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-12T19:17:08Z" class="datetime"&gt;April 12, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/account-disabled" hreflang="en"&gt;Account Disabled&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/coronavirus" hreflang="en"&gt;Coronavirus&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Chris Saccoccia goes by the name “Chris Sky” online and has so far spoken at many anti-restriction rallies. With a little more than a quarter of a million followers on Instagram, Saccoccia was accused of spreading conspiracy theories on the platform.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;250000&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-images field--type-image field--label-above"&gt;
+    &lt;div class="field__label"&gt;Images&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/ChrisStar.PNG" width="2165" height="1248" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+          &lt;div class="field__item"&gt;  &lt;img src="https://mrc-techdb.s3.amazonaws.com/2021-04/chrisSky2.PNG" width="1493" height="1485" alt="" typeof="foaf:Image" /&gt;
+
+&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Account disabled&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/chris-sky" hreflang="en"&gt;Chris Sky&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Multiple Violations of Instagram's Community Standards ('vaccine misinformation and content promoting widely debunked hoaxes')&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-social-handle field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Social Handle&lt;/div&gt;
+              &lt;div class="field__item"&gt;@realchrissky&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Instagram&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Instagram disables account of anti-lockdown activist Chris Sky:&lt;/strong&gt; Chris Saccoccia aka "Chris Sky" had more than 250,000 followers on Instagram, according to &lt;a href="https://reclaimthenet.org/chris-sky-instagram/"&gt;&lt;em&gt;Reclaim the Net&lt;/em&gt;&lt;/a&gt;, until the social networking platform disabled his account. "So guys, Instagram just disabled my main account @realchrissky because they know I'm about to get to Calgary and they're trying to deplatform me before I can speak to everyone at Calgary and Van[couver]," said Sky in a short &lt;a href="https://twitter.com/chrissaccoccia1/status/1381727652109688835"&gt;video&lt;/a&gt; alerting his audience to the ban. An unnamed spokesperson from Instagram reportedly told &lt;em&gt;Reclaim the Net &lt;/em&gt;that it removed Sky from its platform due to multiple violations of its community standards. "We will not tolerate content on our platform about COVID-19 that could lead to harm, including harmful vaccine misinformation and content promoting widely debunked hoaxes,” the spokesperson reportedly said, according to &lt;em&gt;Reclaim the Net&lt;/em&gt;. In response to Instagram's disabling of his account, Sky set up his own website, REALCHRISSKY.com, "to LIVESTREAM from rallies in Calgary, Vancouver, Regina, Winnipeg, Montreal," he &lt;a href="https://twitter.com/chrissaccoccia1/status/1383099323785773059"&gt;said in a tweet&lt;/a&gt;. "SURPRISE THEY ARE SO SCARED OF ME SPEAKING IN CALGARY AND VANCOUVER THEY ARE DELETING ALL MY SOCIAL MEDIA," remarked Sky in another &lt;a href="https://twitter.com/chrissaccoccia1/status/1382004209038467075"&gt;tweet&lt;/a&gt;. "AND THEY SHOULD BE." &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Fri, 16 Apr 2021 19:17:07 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2218 at https://censortrack.org</guid>
+    </item>
+<item>
+  <title>Abbot Tryphon</title>
+  <link>https://censortrack.org/case/abbot-tryphon</link>
+  <description>&lt;span class="field field--name-title field--type-string field--label-hidden"&gt;Abbot Tryphon&lt;/span&gt;
+&lt;span class="field field--name-uid field--type-entity-reference field--label-hidden"&gt;&lt;a title="View user profile." href="https://censortrack.org/user/44" lang="" about="https://censortrack.org/user/44" typeof="schema:Person" property="schema:name" datatype="" class="username" xml:lang=""&gt;Alec Schemmel&lt;/a&gt;&lt;/span&gt;
+&lt;span class="field field--name-created field--type-created field--label-hidden"&gt;Wed, 04/14/2021 - 09:01&lt;/span&gt;
+
+  &lt;div class="field field--name-field-censor-response field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censor Response&lt;/div&gt;
+              &lt;div class="field__item"&gt;N/A&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-censorship-date field--type-datetime field--label-hidden field__item"&gt;&lt;time datetime="2021-04-12T13:01:02Z" class="datetime"&gt;April 12, 2021&lt;/time&gt;
+&lt;/div&gt;
+      
+  &lt;div class="field field--name-field-censorship-type field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Censorship Type&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/censorship-type/banned" hreflang="en"&gt;Banned&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-label field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Label&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/content-label/religion" hreflang="en"&gt;Religion&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-content-violation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Content Violation&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unknown. The abbot said that his purpose on the internet, which he refers to his online mission, is to spread the word of Christ, and in particular to better inform those in the West about Eastern Orthodox Christianity, which, although a major and ancient Christian denomination, remains a mystery to many in those parts of the world.&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-followers field--type-integer field--label-above"&gt;
+    &lt;div class="field__label"&gt;Followers&lt;/div&gt;
+              &lt;div class="field__item"&gt;40000&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-mediation field--type-string-long field--label-above"&gt;
+    &lt;div class="field__label"&gt;Mediation&lt;/div&gt;
+              &lt;div class="field__item"&gt;None&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-person field--type-entity-reference field--label-above"&gt;
+    &lt;div class="field__label"&gt;Person&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;&lt;a href="https://censortrack.org/person/abbot-tryphon" hreflang="en"&gt;Abbot Tryphon&lt;/a&gt;&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+  &lt;div class="field field--name-field-reason-cited field--type-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Reason Cited&lt;/div&gt;
+              &lt;div class="field__item"&gt;Undisclosed&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-repeat-censor field--type-boolean field--label-above"&gt;
+    &lt;div class="field__label"&gt;Repeat Censor&lt;/div&gt;
+              &lt;div class="field__item"&gt;Off&lt;/div&gt;
+          &lt;/div&gt;
+
+  &lt;div class="field field--name-field-resolution field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Resolution&lt;/div&gt;
+              &lt;div class="field__item"&gt;Unresolved&lt;/div&gt;
+          &lt;/div&gt;
+
+            &lt;div class="field field--name-field-tax-test field--type-entity-reference field--label-hidden field__item"&gt;Facebook&lt;/div&gt;
+      
+            &lt;div class="clearfix text-formatted field field--name-field-story-box field--type-text-long field--label-hidden field__item"&gt;&lt;p&gt;&lt;strong&gt;Orthodox Christian monk banned from Facebook for undisclosed reason:&lt;/strong&gt; Facebook has banned the Page of Abbot Tryphon, an Orthodox Christian monk based in the Pacific Northwest. "I confess my sadness that Facebook has chosen to ban me from their social medium, and separate me from my 39,553 'friends' and followers of my 'Abbot Tryphon' Facebook page," the monk wrote in a &lt;a href="https://blogs.ancientfaith.com/morningoffering/2021/04/dark-forces/"&gt;blog post&lt;/a&gt; explaining to his followers the truth behind why he had disappeared from the platform. He feared his followers may think he abandoned them. "[T]here are perhaps thousands of people who believe I simply chose to walk away from this ministry of sharing encouraging words, and attempting to pass on to my Facebook readers the tools needed to survive this age of nihilism," he wrote. In his blog post the monk also noted that Facebook had banned him for undisclosed violations of their standards before he could tell his readers to subscribe to his blog. "I’m convinced the Internet has become the major vehicle for the workings of the Evil One, and our children are not the only vulnerable ones. Indeed, our nation is at the crossroads, for we are witnessing the 'reset' of our Western way of life."  &lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Wed, 14 Apr 2021 13:01:02 +0000</pubDate>
+    <dc:creator>Alec Schemmel</dc:creator>
+    <guid isPermaLink="false">2199 at https://censortrack.org</guid>
+    </item>
+
+  </channel>
+</rss>

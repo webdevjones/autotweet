@@ -26,7 +26,7 @@ const tweet_em = async (feed_url) => {
 
     newElements.forEach(async elem => {
         if (!oldElements.find(e => e.title._text === elem.title._text)) {
-            const elem_title = elem.title._text
+            const elem_title = `Newly Censored: ${elem.title._text}`
             const elem_link = elem.link._text
             const tiny_url = await axios.get(`http://tinyurl.com/api-create.php?url=${elem_link}`)
             const twitter_link = tiny_url.data
@@ -42,4 +42,4 @@ const tweet_em = async (feed_url) => {
         }
     })
 }
-tweet_em('https://www.newsbusters.org/autotweet/business')
+tweet_em('https://censortrack.org/feed/autotweet')
